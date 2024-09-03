@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irculkerk.github.io/sitemap.html.gz
+Sitemap: https://irculkerk.github.io/app/sitemap.html.gz
+Sitemap: https://irculkerk.github.io/assets/sitemap.html.gz
+Sitemap: https://irculkerk.github.io/css/sitemap.html.gz
+Sitemap: https://irculkerk.github.io/includes/sitemap.html.gz
+Sitemap: https://irculkerk.github.io/item/sitemap.html.gz
+Sitemap: https://irculkerk.github.io/src/sitemap.html.gz
